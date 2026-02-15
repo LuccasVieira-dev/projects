@@ -1,1 +1,1 @@
-check this out: https://github.com/LuccasVieira-dev/projects/releases/tag/v2.5
+just random stuff that I did in my free time
