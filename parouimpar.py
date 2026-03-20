@@ -1,4 +1,4 @@
-#verificador se o número é par ou ímpar (ironia)
+#verificador se o número é par ou ímpar
 #é o especialista não tem jeito
 
 import time
@@ -3011,3 +3011,5 @@ while True:
     if encontrado == False:
         print('esse número não tem ainda, ta achando que é facil é?')
     time.sleep(1)
+
+#contém ironia
