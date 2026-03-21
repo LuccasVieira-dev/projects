@@ -1,4 +1,4 @@
-#Just a stupid lyrcs code that plays Creep, if you want to try copy and paste this or go to my releases
+#apenas um código estúpido que roda creep, se você quer que funcione baixa o exe em releases, esse aqui é só o código fonte
 
 import sys
 import os
