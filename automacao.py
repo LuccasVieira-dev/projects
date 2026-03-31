@@ -1,3 +1,8 @@
+#v0.5
+#macro simples e nada preciso pra qualquer tipo de automação, funcional, mas não espere muito dele
+#pretendo atualizalo no futuro e talvez até criar um exe
+
+
 from pynput import keyboard, mouse
 import time
 import threading
